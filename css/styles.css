@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.custom-top-nav {
+  background: black;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-size: 14px;
+}
+.custom-column-one{
+background-image: url("../images/afrika.jpg");
+background-size: cover;
+height: 350px;
+
+}
